@@ -58,7 +58,7 @@ public class TV {
         this.NumTV = numTV;
     }
     public int getNumTV(){
-        return numTV;
+        return NumTV;
     }
 
     public boolean getEstado(){
