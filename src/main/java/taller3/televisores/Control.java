@@ -8,7 +8,7 @@ public class Control{
         televisor.setControl(this);
     }
 
-    public TV getTV(){
+    public TV getTv(){
         return tv;
     }
 
