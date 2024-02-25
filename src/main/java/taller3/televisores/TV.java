@@ -55,7 +55,7 @@ public class TV {
     }
 
     public void setNumTV(int numTV){
-        NumTV = numTV;
+        this.NumTV = numTV;
     }
     public static int getNumTV(){
         return NumTV;
